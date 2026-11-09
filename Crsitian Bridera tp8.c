@@ -3,7 +3,7 @@
 
 #define TAM 20
 
-// URL del repositorio: 
+// URL del repositorio: https://github.com/Pehuen2008/Info-Electronica-1R5
 
 int cuantas_piezas(int max);
 int rectificable (float, float);
